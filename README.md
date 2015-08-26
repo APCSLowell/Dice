@@ -1,7 +1,7 @@
 Dice
 ====
 
-In this assignment we'll practice using OOP (Object Oriented Programming) techniques. We'll create a `class` to model what a single die has and does, and then we will create two or more instances of that class. Note that for full credit your program must display the total of the dice and draw the dice with dots or similar marks. Also, you must customize the title, header and footer of index.html. You may find the PowerPoint sides 172 to 223 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful.
+In this assignment we'll practice using OOP (Object Oriented Programming) techniques. We'll create a `class` to model what a single die has and does, and then we will many create instances of that class. Note that for full credit your program must display the total of the dice and draw the dice with dots or similar marks. Also, you must customize the title, header and footer of index.html. You may find the PowerPoint sides 172 to 223 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful.
 
 Start by forking [this repository](https://github.com/LowellSampleClass/). Open the pde file and you should see the following code:
 
@@ -11,7 +11,7 @@ Start by forking [this repository](https://github.com/LowellSampleClass/). Open 
 	}
 	void draw()
 	{
-	    
+	    //your code here
 	}
 	void mousePressed()
 	{
