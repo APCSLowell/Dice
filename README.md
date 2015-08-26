@@ -5,34 +5,34 @@ In this assignment we'll practice using OOP (Object Oriented Programming) techni
 
 Start by forking [this repository](https://github.com/LowellSampleClass/). Open the pde file and you should see the following code:
 
-`void setup()
-{
-    noLoop();
-}
-void draw()
-{
-    
-}
-void mousePressed()
-{
-    redraw();
-}
-class Die //models one single dice cube
-{
-    //variable declarations here
-    Die(int x, int y) //constructor
-    {
-        //variable initializations here
-    }
-    void roll()
-    {
-        //your code here
-    }
-    void show()
-    {
-        //your code here
-    }
-}`
+	void setup()
+	{
+	    noLoop();
+	}
+	void draw()
+	{
+	    
+	}
+	void mousePressed()
+	{
+	    redraw();
+	}
+	class Die //models one single dice cube
+	{
+	    //variable declarations here
+	    Die(int x, int y) //constructor
+	    {
+	        //variable initializations here
+	    }
+	    void roll()
+	    {
+	        //your code here
+	    }
+	    void show()
+	    {
+	        //your code here
+	    }
+	}
 
 
 1. Complete the `draw()` function first. If it is the first time the screen is drawn or if the mouse has been pressed:  
