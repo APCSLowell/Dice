@@ -35,13 +35,14 @@ Start by forking [this repository](https://github.com/LowellSampleClass/). Open 
 	}
 
 
-1. Complete the `draw()` function first. If it is the first time the screen is drawn or if the mouse has been pressed:  
+1. Complete the `draw()` function first. For now it should:  
   - clear the screen
   - declare and initialize two instances of the `Die` class
   - display the two instances of the `Die` class
-2. Now complete the `Die` class. You will need to complete the `show()` function that displays the die to the screen. Notice that the constructor takes arguments. We'll use those arguments to position the individual die cubes. Don't worry about the dots at first, just get the shape of the dice on the screen for now. Once you like the shape of your die, go back to `show()` and add some `if`s to check how many dots you need to put on the die. Start by "forcing" the die to always roll a one. Check to see that you can get one dot where it is suppose to be, and move on to two. If you are clever, you can combine some of the ifs and avoid duplicate code. 
+2. Now complete the `Die` class. You will need to complete the `show()` function that displays the die to the screen. Notice that the constructor takes arguments. We'll use those arguments to position the individual die cubes. Don't worry about the dots at first, just get the shape of the dice on the screen for now. Once you like the shape of your die, go back to `show()` and add some `if`s to check how many dots you need to put on the die. Start by "forcing" the die to always roll a one. Check to see that you can get one dot where it is suppose to be, and move on to two, and so on. If you are clever, you can combine some of the ifs and avoid duplicate code. 
+3. Now, use nested loops to display at least nine instances of the `Die` class. This is the power of OOP. It's not that much more work to make 1000 dice as it is to make one. Make sure the dots are on the dice. Your `show()` function will need to position the dots by adding some small amount to the x and y coordinates of the `rect()` of the `Die`
 
-3. Finally, add code to the `draw()` function so that your program displays the total for the roll to the screen.  
+4. Finally, add code to the `draw()` function so that your program displays the total for the roll to the screen.  
 
 Have fun and be creative. Your dice program doesn't have to look or work like any other.  
 
