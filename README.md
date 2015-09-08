@@ -52,6 +52,7 @@ If you have extra time, you can keep track of the rolls. You could display the a
 
 Samples of Student Work
 -----------------------
+[Andrew](http://frostytimp.github.io/Dice/)  
 [Elston](http://458elma.github.io/Dice/)  
 [Theo](http://awesomestickman.github.io/Dice/)  
 [Alexander](http://alzhu1.github.io/Dice/)  
