@@ -54,7 +54,7 @@ Samples of Student Work
 -----------------------
 [Simon](http://omgitssimon.github.io/Dice/)  
 [Winnie](http://winnie3269.github.io/Dice/)  
-[Carl(http://cahouweling.github.io/Dice/)  
+[Carl](http://cahouweling.github.io/Dice/)  
 [Matthew](http://yeahmatts.github.io/Dice/)  
 [Leif](http://leifmorgan.github.io/Dice/)  
 [Noah](http://noahzpepper.github.io/Dice/)  
