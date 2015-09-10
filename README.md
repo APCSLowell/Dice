@@ -52,6 +52,11 @@ If you have extra time, you can keep track of the rolls. You could display the a
 
 Samples of Student Work
 -----------------------
+[Simon](http://omgitssimon.github.io/Dice/)  
+[Winnie](http://winnie3269.github.io/Dice/)  
+[Carl(http://cahouweling.github.io/Dice/)  
+[Matthew](http://yeahmatts.github.io/Dice/)  
+[Leif](http://leifmorgan.github.io/Dice/)  
 [Noah](http://noahzpepper.github.io/Dice/)  
 [Kevin](http://oohklim.github.io/Dice/)  
 [Jeremy](http://gitrektapcs.github.io/Dice/)  
