@@ -54,6 +54,9 @@ Samples of Student Work
 -----------------------
 [Helen](http://hezhang2.github.io/Dice/) 
 [Andy](http://huangandy54.github.io/Dice/)  
+[Linda](http://wanglindal.github.io/Dice/)  
+[Abhay](http://negiabhay98.github.io/Dice/)  
+[Miko](http://mikolajkrajewski.github.io/Dice/)  
 [Brian](http://btx123.github.io/Dice/)  
 [Megan](http://meegee98.github.io/Dice/)  
 [Esther](http://elam2016.github.io/Dice/)  
