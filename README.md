@@ -58,6 +58,8 @@ Samples of Student Work
 [Megan](http://meegee98.github.io/Dice/)  
 [Esther](http://elam2016.github.io/Dice/)  
 [Thomas](http://leechak.github.io/Dice/)  
+[Derrick](http://pepe-roni.github.io/Dice/)  
+[Thien](http://thtran1.github.io/Dice/)  
 [Andrew](http://andrewtheo.github.io/Dice/)  
 [Sida](http://sidaqin.github.io/Dice/)  
 [Rebecca](http://rebeckur.github.io/Dice/)  
