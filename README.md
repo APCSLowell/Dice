@@ -52,7 +52,8 @@ If you have extra time, you can keep track of the rolls. You could display the a
 
 Samples of Student Work
 -----------------------
-[Helen](http://hezhang2.github.io/Dice/)  
+[Helen](http://hezhang2.github.io/Dice/) 
+[Andy](http://huangandy54.github.io/Dice/)  
 [Brian](http://btx123.github.io/Dice/)  
 [Megan](http://meegee98.github.io/Dice/)  
 [Esther](http://elam2016.github.io/Dice/)  
