@@ -60,6 +60,7 @@ Samples of Student Work
 [Skyler](http://skymefly.github.io/Dice/)  
 [Terrance](http://auxoworks.github.io/Dice/)  
 [Jesse](http://jessew927.github.io/Dice/)  
+[Jeanette}(http://roquefortt.github.io/Dice/)  
 [Edward](http://edyuen.github.io/Dice/)  
 [Andy](http://huangandy54.github.io/Dice/)  
 [Linda](http://wanglindal.github.io/Dice/)  
