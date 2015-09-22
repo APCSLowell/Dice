@@ -96,9 +96,4 @@ Samples of Student Work
 [Elston](http://458elma.github.io/Dice/)  
 [Theo](http://awesomestickman.github.io/Dice/)  
 [Alexander](http://alzhu1.github.io/Dice/)  
-[Christine](http://christinechao.github.io/Dice/)     
-[Jingbin](http://ben441318936.github.io/Dice/)  
-[Erika](http://bekutaa.github.io/Dice/)  
-[Lucy](http://luchen825.github.io/Dice/)  
-[Gigi](http://gigibyte327.github.io/Dice/)  
-[Vivian](http://vivianlam.github.io/Dice/)
+
