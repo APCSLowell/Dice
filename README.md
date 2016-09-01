@@ -48,7 +48,7 @@ Have fun and be creative. Your dice program doesn't have to look or work like an
 Optional Extras
 ---------------
 
-If you have extra time, you can keep track of the rolls. You could display the average roll, or maybe a graph that shows how often each of the numbers from 2 to 12 have come up. This is useful in some dice games like Settlers of Catan. Check the links below for examples of other students work
+For a challenge, you might see how many legible dice you can fit on the screen. You can also keep track of the rolls. You could display the average roll, or maybe a graph that shows how often each of the numbers from 2 to 12 have come up. This is useful in some dice games like Settlers of Catan. Check the links below for examples of other students work
 
 Samples of Student Work
 -----------------------
