@@ -52,6 +52,10 @@ For a challenge, you might see how many legible dice you can fit on the screen. 
 
 Samples of Student Work
 -----------------------
+[Jonathan](https://jonathanchu33.github.io/Dice/)   
+[Janet](https://birded.github.io/Dice/)   
+[Nghi](https://nagirokudo.github.io/Dice/)   
+[Raymond](https://ngoraymond.github.io/Dice/)   
 [Brandon](https://brlou-apcs.github.io/Dice/)   
 [Felix](https://felixzhuk.github.io/Dice/)   
 [Thanawat](https://thiskappaisgrey.github.io/Dice/index.html)   
