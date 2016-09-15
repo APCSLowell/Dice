@@ -60,7 +60,7 @@ Samples of Student Work
 [Brandon](https://zawszefl.github.io/Dice/)   
 [Kirby](https://krbyktl.github.io/Dice/)   
 [Will](https://williammai.github.io/Dice/)   
-[Mi-Ka](https://mikamarciales.github.io/Dice/)   
+[Mi-Kaela](https://mikamarciales.github.io/Dice/)   
 [Wilson](https://wichen3.github.io/Dice/)   
 [Tatiana](https://sonotatiana.github.io/Dice/)   
 [Joanna](https://j0annalu.github.io/Dice/)   
