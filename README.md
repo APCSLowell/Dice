@@ -56,6 +56,7 @@ Samples of Student Work
 -----------------------
 [Kelvin](https://chan34kelvin.github.io/Dice/)   
 [Jing](https://jili53.github.io/Dice/)   
+[Emil](https://emil000.github.io/Dice/)   
 [Kelly](https://kellykelp.github.io/Dice/)   
 [Chanel](https://chan3l.github.io/Dice/)   
 [Emma](https://emblenkinsop.github.io/Dice/)   
