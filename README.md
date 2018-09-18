@@ -20,6 +20,7 @@ Start by forking [this repository](https://github.com/APCSLowell/Dice). Open the
 	class Die //models one single dice cube
 	{
 	    //variable declarations here
+	    
 	    Die(int x, int y) //constructor
 	    {
 	        //variable initializations here
