@@ -7,7 +7,8 @@ Suggested steps to start the assignment
 ------------------------------------------   
 1. Start by forking [this repository](https://github.com/APCSLowell/Dice). Open the pde file and you should see the following code:
 
-	void setup()
+```java
+        void setup()
 	{
 	    noLoop();
 	}
@@ -36,7 +37,7 @@ Suggested steps to start the assignment
 	        //your code here
 	    }
 	}
-
+```
 
 1. Complete the `draw()` function first. For now it should:  
   - clear the screen
