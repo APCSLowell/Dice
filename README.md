@@ -3,6 +3,8 @@ Dice
 
 In this assignment we'll practice using OOP (Object Oriented Programming) techniques. We'll create a `class` to model what a single die has and does, and then we will create at least 9 *instances* of that class arranged in a grid shape. Note that for full credit your program must display the total of all the dice and draw the dice with dots or similar marks. Also, you must customize the title, header and footer of `index.html`. You may find the first 34 slides of the [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing) slide presentation helpful, as well as the [Nested Loops](https://docs.google.com/document/d/1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw/edit?usp=sharing), [Practice with classes](https://docs.google.com/document/d/1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw/edit?usp=sharing) and the [Math.random](https://drive.google.com/file/d/0Bz2ZkT6qWPYTSU84X3FSOGYwdFU/view?usp=sharing) worksheets.
 
+Suggested steps to start the assignment
+------------------------------------------   
 Start by forking [this repository](https://github.com/APCSLowell/Dice). Open the pde file and you should see the following code:
 
 	void setup()
@@ -46,11 +48,17 @@ Start by forking [this repository](https://github.com/APCSLowell/Dice). Open the
 3. Now, use nested loops to display at least nine instances of the `Die` class. This is the power of OOP. It's not that much more work to make 1000 dice as it is to make one. Make sure the dots are on the dice. Your `show()` function will need to position the dots by adding some small amount to the x and y coordinates of the `rect()` of the `Die`
 4. Finally, add code to the `draw()` function so that your program displays the total for the roll to the screen.  
 
-Have fun and be creative. Your dice program doesn't have to look or work like any other.  
+Program requirements
+-----------------------
+The steps above are only a suggestion. Your program needs to:
+1. Use a `class` to model a **single** `Die` cube. 
+1. The `Die` constructor needs to use the two arguments to position the x and y coordinates of the `Die` cube.
+2. Create at least 9 *instances* of the `Die` class.
+3. Use `Math.random()` for *all* random numbers in the assignment. 
+Other than that, your dice program doesn't have to work or look like any other. Have fun and be creative!
 
 Optional Extras
 ---------------
-
 For a challenge, you might see how many legible dice you can fit on the screen. You can also keep track of the rolls. You could display the average roll, or maybe a graph that shows how often each of the numbers from 2 to 12 have come up. This is useful in some dice games like Settlers of Catan. Check the links below for examples of other students work
 
 Samples of Student Work
