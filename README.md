@@ -52,10 +52,11 @@ Suggested steps to start the assignment
 Program requirements
 -----------------------
 The steps above are only a suggestion. Your program needs to:
-1. Use a `class` to model a **single** `Die` cube. 
-1. The `Die` constructor needs to use the two arguments to position the x and y coordinates of the `Die` cube.
-2. Create at least 9 *instances* of the `Die` class.
-3. Use `Math.random()` for *all* random numbers in the assignment. 
+1. Use a `class` to model a **single** `Die` cube 
+1. The `Die` constructor needs to use the two arguments to position the x and y coordinates of the `Die` cube
+2. Create at least 9 *instances* of the `Die` class
+3. Use `Math.random()` for *all* random numbers in the assignment 
+4. Display the total of all the dice and draw the dice with dots or similar marks
 Other than that, your dice program doesn't have to work or look like any other. Have fun and be creative!
 
 Optional Extras
