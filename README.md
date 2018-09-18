@@ -5,7 +5,7 @@ In this assignment we'll practice using OOP (Object Oriented Programming) techni
 
 Suggested steps to start the assignment
 ------------------------------------------   
-1. Start by forking [this repository](https://github.com/APCSLowell/Dice). Open the pde file and you should see the following code:
+1. Start by forking [this repository](https://github.com/APCSLowell/Dice). Clone down the folder and open it in Sublime. Open the pde file and you should see the following code:
 
 ```java
         void setup()
@@ -53,10 +53,10 @@ Program requirements
 -----------------------
 The steps above are only a suggestion. Your program needs to:
 1. Use a `class` to model a **single** `Die` cube 
-1. The `Die` constructor needs to use the two arguments to position the x and y coordinates of the `Die` cube
-2. Create at least 9 *instances* of the `Die` class
-3. Use `Math.random()` for *all* random numbers in the assignment 
-4. Display the total of all the dice and draw the dice with dots or similar marks
+2. The `Die` constructor needs to use the two arguments to position the x and y coordinates of the `Die` cube
+3. Create at least 9 *instances* of the `Die` class
+4. Use `Math.random()` for *all* random numbers in the assignment 
+5. Display the total of all the dice and draw the dice with dots or similar marks
 Other than that, your dice program doesn't have to work or look like any other. Have fun and be creative!
 
 Optional Extras
