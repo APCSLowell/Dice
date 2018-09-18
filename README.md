@@ -5,7 +5,7 @@ In this assignment we'll practice using OOP (Object Oriented Programming) techni
 
 Suggested steps to start the assignment
 ------------------------------------------   
-Start by forking [this repository](https://github.com/APCSLowell/Dice). Open the pde file and you should see the following code:
+1. Start by forking [this repository](https://github.com/APCSLowell/Dice). Open the pde file and you should see the following code:
 
 	void setup()
 	{
