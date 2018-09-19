@@ -57,7 +57,7 @@ The steps above are only a suggestion. Your program needs to:
 3. Create at least 9 *instances* of the `Die` class
 4. Use `Math.random()` for *all* random numbers in the assignment 
 5. Display the total of all the dice and draw the dice with dots or similar marks
-6. Customize the title, header and footer of `index.html`  
+6. Personalize the title, header and footer of `index.html`  
 
 Other than that, your dice program doesn't have to work or look like any other. Have fun and be creative!
 
