@@ -69,6 +69,8 @@ Samples of Student Work
 -----------------------
 [Jalen](https://jalenng.github.io/Dice/)   
 [Alexis](https://alexisapcs.github.io/Dice/)   
+[David](https://dachen18.github.io/Dice/)   
+[William](https://willsamc16.github.io/Dice/)   
 [Amy](https://aimysun.github.io/Dice/)   
 [Andy](https://andyyao1.github.io/Dice/)   
 [Ethan](https://ethantruong.github.io/Dice/)   
