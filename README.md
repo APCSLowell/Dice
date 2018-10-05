@@ -74,6 +74,7 @@ Samples of Student Work
 [Amy](https://aimysun.github.io/Dice/)   
 [Andy](https://andyyao1.github.io/Dice/)   
 [Ethan](https://ethantruong.github.io/Dice/)   
+[Jessie](https://envylyst.github.io/Dice/)   
 [Peter](https://peterwu1205.github.io/Dice/)   
 [David](https://daviddang456.github.io/Dice/)   
 [Daniel](https://danieldoan101.github.io/Dice/)   
