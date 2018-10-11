@@ -74,6 +74,7 @@ Samples of Student Work
 [Jalen](https://jalenng.github.io/Dice/)   
 [Akira](https://akirachou2468.github.io/Dice/)   
 [Celina](https://celinaye.github.io/Dice/)   
+[Emma](https://emmab3.github.io/Dice/)   
 [David](https://dactualchung.github.io/Dice/)   
 [Esther](https://estherchung83.github.io/Dice/)   
 [Sean](https://seanzep.github.io/Dice/)   
