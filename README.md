@@ -71,6 +71,7 @@ Samples of Student Work
 [Fred](https://fredxhua.github.io/Dice/)   
 [Richard](https://riprivalov.github.io/Dice/)   
 [Thomas](https://thchin12345.github.io/Dice/)   
+[Ethan](https://ethan-ap-cs.github.io/Dice/)   
 [Jalen](https://jalenng.github.io/Dice/)   
 [Akira](https://akirachou2468.github.io/Dice/)   
 [Celina](https://celinaye.github.io/Dice/)   
