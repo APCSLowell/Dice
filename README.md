@@ -22,7 +22,7 @@ Suggested steps to start the assignment
 	}
 	class Die //models one single dice cube
 	{
-	    //variable declarations here
+	    //member variable declarations here
 	    
 	    Die(int x, int y) //constructor
 	    {
@@ -38,8 +38,9 @@ Suggested steps to start the assignment
 	    }
 	}
 ```
-
-2. Complete the `draw()` function first. For now it should:  
+2. Write the member variable declarations for the `Die` class
+2. Then, write code in the constructor to initialize the member variables
+2. Next, complete the `draw()` function first. For now it should:  
      - clear the screen
      - declare and initialize one instance of the `Die` class
      - Call the `show()` function for that `Die` (even though we won't see anything yet)
