@@ -68,6 +68,15 @@ For a challenge, you might see how many legible dice you can fit on the screen. 
 
 Samples of Student Work
 -----------------------
+[Xinjian](https://xinjiannn.github.io/Dice/)   
+[Yanzhu](https://xinjiannn.github.io/Dice/)   
+[Phuoc](https://megagotnothing.github.io/Dice/)   
+[Claire](https://clrafferty.github.io/Dice/)   
+[PJ](https://pjol.github.io/Dice/)   
+[Anna](https://annaorgel.github.io/Dice/)   
+[Kimia](https://kimiasattary.github.io/Dice/)   
+[Robert](https://frestho.github.io/Dice/)   
+[Fiona](https://frestho.github.io/Dice/)   
 [Joshua](https://jowong1.github.io/Dice/)   
 [Fred](https://fredxhua.github.io/Dice/)   
 [Richard](https://riprivalov.github.io/Dice/)   
