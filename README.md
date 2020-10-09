@@ -41,7 +41,7 @@ Suggested steps to start the assignment
 2. Write the member variable declarations for the `Die` class
 2. Then, write code in the constructor to initialize the member variables
 2. Next, complete the `draw()` function. For now it should:  
-     - draw `background()` on the screen
+     - make a `background()` on the screen
      - declare and initialize one instance of the `Die` class
      - Call the `show()` function for that `Die` (even though we won't see anything yet)
 3. Now lets work on the `show()` function. 
