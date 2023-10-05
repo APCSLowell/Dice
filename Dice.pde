@@ -1,5 +1,5 @@
 Die bob;
-int c=0;
+int c=0; 
 int total=0;
 
 void mousePressed(){
