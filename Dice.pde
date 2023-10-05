@@ -1,5 +1,5 @@
 Die bob;
-int c=0; 
+int d=0; 
 int total=0;
 
 void mousePressed(){
@@ -23,7 +23,7 @@ void draw(){
       bob = new Die(a,b);
       bob.show();
       bob.roll();
-      total=total+c;
+      total=total+d;
     }
   }
   textSize(28);
@@ -42,22 +42,22 @@ class Die{
   void roll(){
     if (num == 1){
       one=true;
-      c=1;
+      d=1;
     }else if (num==2){
        two=true;
-       c=2;
+       d=2;
     }else if (num==3){
         three=true;
-        c=3;
+        d=3;
     }else if (num==4){
         four=true;
-        c=4;
+        d=4;
     }else if (num==5){
         five=true;
-        c=5;
+        d=5;
     }else if (num==6){
         six=true;
-        c=6;
+        d=6;
     }
   }
   void show(){
