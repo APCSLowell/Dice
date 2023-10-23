@@ -342,3 +342,6 @@ Samples of Student Work
 [Rock](https://baoquangu.github.io/Dice/)   
 [Gage](https://gschopen.github.io/Dice/)   
 [Angela](https://angieela.github.io/Dice/)   
+[Diego](https://diegooroyale.github.io/Dice/)   
+[Ivona](https://ivonasutilovic1.github.io/Dice/)   
+[Sandy](https://satam2.github.io/Dice/)   
